@@ -11,4 +11,5 @@ public class TC_001_LOGIN extends ProjectSpecificMethods{
 	public void runlogin() {
 		new GitLogin().enterUserName().enterPassword().clicklogin().title();
 	}
+	
 }
