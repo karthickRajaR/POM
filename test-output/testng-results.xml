@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10178" started-at="2020-02-08T15:47:03 IST" finished-at="2020-02-08T15:47:13 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10178" started-at="2020-02-08T15:47:03 IST" finished-at="2020-02-08T15:47:13 IST">
+      <class name="testCase.TC_001_LOGIN">
+        <test-method status="PASS" signature="login()[pri:0, instance:testCase.TC_001_LOGIN@176b067]" name="login" is-config="true" duration-ms="8180" started-at="2020-02-08T15:47:03 IST" finished-at="2020-02-08T15:47:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="runlogin()[pri:0, instance:testCase.TC_001_LOGIN@176b067]" name="runlogin" duration-ms="709" started-at="2020-02-08T15:47:11 IST" finished-at="2020-02-08T15:47:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runlogin -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:testCase.TC_001_LOGIN@176b067]" name="logout" is-config="true" duration-ms="1219" started-at="2020-02-08T15:47:12 IST" finished-at="2020-02-08T15:47:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testCase.TC_001_LOGIN -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
